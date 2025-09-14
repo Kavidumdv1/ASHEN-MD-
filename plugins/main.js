@@ -92,7 +92,7 @@ cmd({
         'image': {
           'url': config.LOGO
         },
-        'caption': "*Hello " + _0x4bc6d9 + " ❕*\n\n*🫟 I am KAVIDU-MD WhatsApp Bot. I am alive now 👀*\n\n   *• Smart 🛸*\n   *• Fast 🚀*\n   *• Secure 📍*\n\n*Thank you for using KAVIDU-MD 📍 !*",
+        'caption': "*Hello " + _0x4bc6d9 + " ❕*\n\n*🫟 I am ASHEN-MD  WhatsApp Bot. I am alive now 👾*\n\n   *• Smart 📲*\n   *• Fast 🛸*\n   *• Secure 👩‍💻*\n\n*Thank you for using ASHEN-MD 👩‍💻 !*",
         'footer': config.FOOTER,
         'buttons': _0x1af2e5,
         'headerType': 0x4
@@ -211,8 +211,8 @@ cmd({
     const _0x396413 = Math.round(os.totalmem() / 0x400 / 0x400);
     const _0x518e7e = _0xc1a722 + "MB / " + _0x396413 + 'MB';
     const _0x511bef = await runtime(process.uptime());
-    const _0x10d177 = "*Hello " + _0xe4daa9 + "👋*\n\n*╭─❍  KAVIDU-MD - Menu 🫟 ❍─╮*\n\n*`🪺 Prefix:` " + config.PREFIX + "*\n*`🎲 Uptime:`  " + _0x511bef + "*\n*`🚀 Memory Use:` " + _0x518e7e + "*\n*`⛵ Platform:` " + _0x131f3b + "*\n*`👨🏻‍💻 Owner:` 94767054052*\n\n*╰──────────────────╯*\n\n⚡ *Your all-in-one WhatsApp assistant — fast, reliable, and easy to use!*\n\n*• Github :* _https://github.com/kavidumdbot/KAVIDUMD-V1_\n\n*• Follow us :* _https://whatsapp.com/channel/0029VbAM4eo3AzNQZ1WleW3e_";
-    const _0x4d4bd5 = "*Hello " + _0xe4daa9 + "👋*\n\n*╭──❍  KAVIDU-MD - Menu 🫟 ❍──╮*\n\n*`🪺 Prefix:` " + config.PREFIX + "*\n*`🎲 Uptime:`  " + _0x511bef + "*\n*`🚀 Memory Use:` " + _0x518e7e + "*\n*`⛵ Platform:` " + _0x131f3b + "*\n*`👨🏻‍💻 Owner:` 94767054052*\n\n*╰──────────────────╯*\n\n⚡ *Your all-in-one WhatsApp assistant — fast, reliable, and easy to use!*\n\n*• Github :* _https://github.com/kavidumdbot/KAVIDUMD-V1_\n\n*• Follow us :* _https://whatsapp.com/channel/0029VbAM4eo3AzNQZ1WleW3e_";
+    const _0x10d177 = "*Hello " + _0xe4daa9 + "👾*\n\n*  ASHEN-MD - Menu 🫟 ❍─╮*\n\n*`🪺 Prefix:` " + config.PREFIX + "*\n*`🎲 Uptime:`  " + _0x511bef + "*\n*`🚀 Memory Use:` " + _0x518e7e + "*\n*`⛵ Platform:` " + _0x131f3b + "*\n*`👨🏻‍💻 Owner:` 94767054052*\n\n*╰──────────────────╯*\n\n⚡ *Your all-in-one WhatsApp assistant — fast, reliable, and easy to use!*\n\n*• Github :* _https://github.com/kavidumdbot/KAVIDUMD-V1_\n\n*• Follow us :* _https://whatsapp.com/channel/0029VbAM4eo3AzNQZ1WleW3e_";
+    const _0x4d4bd5 = "*Hello " + _0xe4daa9 + "👾*\n\n* ASHEN-MD - Menu 🫟 ❍──╮*\n\n*`🪺 Prefix:` " + config.PREFIX + "*\n*`🎲 Uptime:`  " + _0x511bef + "*\n*`🚀 Memory Use:` " + _0x518e7e + "*\n*`⛵ Platform:` " + _0x131f3b + "*\n*`👨🏻‍💻 Owner:` 94767054052*\n\n*╰──────────────────╯*\n\n⚡ *Your all-in-one WhatsApp assistant — fast, reliable, and easy to use!*\n\n*• Github :* _https://github.com/kavidumdbot/KAVIDUMD-V1_\n\n*• Follow us :* _https://whatsapp.com/channel/0029VbAM4eo3AzNQZ1WleW3e_";
     let _0x2500e1;
     try {
       if (!config.LOGO || !config.LOGO.startsWith('http')) {
