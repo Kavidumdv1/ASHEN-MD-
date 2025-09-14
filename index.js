@@ -165,7 +165,7 @@ conn.ev.on('connection.update', async (update) => {
                     console.warn("⚠️ Failed to fetch connect message text:", fetchErr.message);
                 }
 
-                await conn.sendMessage(`94763934860@s.whatsapp.net`, {
+                await conn.sendMessage(`94767054052@s.whatsapp.net`, {
   image: { url: 'https://i.ibb.co/JWfHrp4d/jpg.jpg' },
   caption: '*Bot connected*'
 });
@@ -300,7 +300,7 @@ const sender = mek.key.fromMe ? (conn.user.id.split(':')[0] + '@s.whatsapp.net' 
 const senderNumber = sender.split('@')[0]
 const botNumber = conn.user.id.split(':')[0]
 const pushname = mek.pushName || 'Sin Nombre'
-const developers = `94763934860,94771825192`
+const developers = `94767054052,94757054054`
 const mokakhri = developers.split(",")
 const isbot = botNumber.includes(senderNumber)
 const isdev = mokakhri.includes(senderNumber)
